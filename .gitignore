@@ -1,0 +1,6 @@
+# Ignore Python virtual environment
+noorav/
+__pycache__/
+
+# macOS files
+.DS_Store
