@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+google-cloud-bigquery
+google-auth
+google-auth-oauthlib
+jupyter
+matplotlib
+google-cloud-core
+openpyxl
+pyarrow
+pandas-gbq
