@@ -14,6 +14,8 @@ It includes analysis and visualization to key metrics as well.
     ├── Data Engineer Task Assignment.xlsx
     └── noorah-003be3dc481f.json  # Service account key to access bigquery via its API
 
+## Dashboard Link
+    https://lookerstudio.google.com/u/1/reporting/4444203a-0d6b-4469-8bb9-9f21c7ce93d6
 
 ## Setup
 
