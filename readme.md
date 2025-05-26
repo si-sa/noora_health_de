@@ -5,15 +5,14 @@ This project builds a data pipeline to extract the data from excel and load into
 It includes analysis and visualization to key metrics as well.
 
 ## Project Structure
-Noora/
-├── noorav/ # Python virtual environment
-├── requirements.txt # Python dependencies
-├── src/extract_load.py # Python scripts for data loading and processing
-├── sql/ # SQL scripts for transformation and validation
-├── README.md # Project documentation
-├── .gitignore # Files to ignore before pushing to git
-├── Data Engineer Task Assignment.xlsx
-└── noorah-003be3dc481f.json  # Service account key to access bigquery via its API
+    ├── noorav/ # Python virtual environment
+    ├── requirements.txt # Python dependencies
+    ├── src/extract_load.py # Python scripts for data loading and processing
+    ├── sql/ # SQL scripts for transformation and validation
+    ├── README.md # Project documentation
+    ├── .gitignore # Files to ignore before pushing to git
+    ├── Data Engineer Task Assignment.xlsx
+    └── noorah-003be3dc481f.json  # Service account key to access bigquery via its API
 
 
 ## Setup
